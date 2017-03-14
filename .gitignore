@@ -60,3 +60,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Custom 
+Plugins/*/Binaries/*
+Plugins/*/Intermediate/*
+*.VC.db
